@@ -1,8 +1,16 @@
 # Intergalactic-War
 Este en un pequeño juego plataformero realizado en Scratch.
 <br>
-Este videojuego contiene música con Derechos de autor.
+Tener en cuenta que este videojuego contiene música con Derecho de autor.
 <br>
-Video:
+Capturas de pantalla:
+
 <br>
-<video src="Intergalactic-War-Demo.mp4" controls type="video/mp4" width="579" height="429"></video>
+<br>
+<img src="image_1.png" width="579" height="429">
+<br>
+<br>
+<img src="image_2.png" width="579" height="429">
+<br>
+<br>
+<img src="image_3.png" width="579" height="429">
