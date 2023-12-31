@@ -1,6 +1,11 @@
 # Intergalactic-War
 Este en un pequeño juego plataformero realizado en Scratch.
 <br>
+Autores:
+- Duvan Vargas
+- Byron Vergara
+- Nicolas Sosa
+<br>
 Tener en cuenta que este videojuego contiene música con Derecho de autor.
 <br>
 Capturas de pantalla:
